@@ -1,1 +1,1 @@
-GoIT Academy :: Team Project (Group #12)
+GoIT Academy :: JS Team Project (Group #7)
